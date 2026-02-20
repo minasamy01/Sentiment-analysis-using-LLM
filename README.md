@@ -2,6 +2,13 @@
 
 ### *Advanced NLP Classification using LangChain & Gemini 2.5 Flash*
 
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-LCEL-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![JSON Grounding](https://img.shields.io/badge/Output-JSON%20Structured-yellow?style=for-the-badge&logo=json&logoColor=black)
+
+
+
 ---
 
 ## 📖 Overview
